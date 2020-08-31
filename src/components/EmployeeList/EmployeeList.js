@@ -15,6 +15,9 @@ function EmployeeList(props) {
 					<li>
 						<strong>Role:</strong> {props.role}
 					</li>
+					<li>
+						<strong>Email:</strong> {props.email}
+					</li>
 				</ul>
 			</div>
 		</div>
